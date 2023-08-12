@@ -1,5 +1,0 @@
-{{#user}}
-My name is Ganesham.
-Here are my skills : html, css ,js , next.js . 
-My email id is ganeshamtailor@gmail.com.
-{{/user}}
